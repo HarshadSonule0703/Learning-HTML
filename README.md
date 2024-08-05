@@ -8,10 +8,10 @@ The compoent used to design structure of web sites are called as HTML Tags.<br><
 <h2>HTML Tags: </h2><br>
 <p>
     A container for some content or other HTML tags.<br>
-    "<p> This is paragraph </p><br>
+    "<p> This is paragraph </p>"<br>
     The whole sentence is element.<br>
     "This is a paragraph" is a content.</p><br><br>
 
-    
+
 
 
